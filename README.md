@@ -23,8 +23,4 @@ This is a simplified version of a collaborative document editor built for the **
 cd server
 npm install
 node server.js
-### frontend 
-```bash
-cd client
-npm install
-npm start
+
