@@ -24,7 +24,7 @@ cd server
 npm install
 node server.js
 
-Frontend (React)
+###  Frontend (React)
 cd client
 npm install
 npm start
